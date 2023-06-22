@@ -1,0 +1,33 @@
+table{
+    border: 1px solid black;
+    margin-left: 27%;
+}
+
+tr{
+    border: 1px solid black;
+    width: 25px;
+    height: 25px;
+}
+
+td{
+    border: 1px solid black;
+    width: 25px;
+    height: 25px;
+}
+
+.rojo{
+    background-color: red;
+}
+
+.negro{
+    background-color: black;
+}
+
+#botones{
+    text-align: center;
+    margin-top: 25px;
+}
+
+body{
+    background-image: url("../img/fondo.webp");
+}
